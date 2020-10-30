@@ -16,13 +16,22 @@ nav:hover, nav:hover a {
 
 .sidebar {
     height: 100%;
-    width: 1%;
+    width: 3%;
     position: fixed;
-    z-index: 1;
     top: 0;
-    /* background-color: inherit; */
     overflow-x: hidden;
-    /* padding-top: 20px; */
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #3a3837;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebar:hover {
+    color: rgba(216, 201, 201, 0.767);
 }
 
 #leftside {
@@ -31,4 +40,12 @@ nav:hover, nav:hover a {
 
 #rightside {
     right: 0;
+}
+
+#leftside:hover {
+    background: linear-gradient(90deg, #242424, black);
+}
+
+#rightside:hover {
+    background: linear-gradient(270deg, #242424, black);
 }

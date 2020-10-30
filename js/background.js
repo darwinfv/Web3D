@@ -13,3 +13,7 @@ VANTA.NET({
     maxDistance: 10.00,
     spacing: 15.00
 });
+
+let navHeight = document.getElementsByClassName("nav")[0].style.height;
+document.getElementsByClassName("sidebar")[0].style.marginTop = navHeight;
+document.getElementsByClassName("sidebar")[1].style.marginTop = navHeight;
