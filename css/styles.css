@@ -57,3 +57,16 @@ nav:hover a {
 #rightside:hover {
     background: linear-gradient(270deg, #242424, black);
 }
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #242424;
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(216, 201, 201, 0.767);
+}
