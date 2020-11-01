@@ -13,3 +13,10 @@ VANTA.NET({
     maxDistance: 10.00,
     spacing: 15.00
 });
+
+let html = document.getElementsByTagName('html')[0];
+if (html.scrollHeight <= html.clientHeight) {
+    html.style.height = '100%';
+    document.getElementsByTagName('body')[0].style.height = '100%';
+    document.getElementsByClassName('content')[0].style.height = '90%';
+}
