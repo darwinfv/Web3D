@@ -9,6 +9,7 @@ const renderer = new THREE.WebGLRenderer({
 renderer.setSize(window.innerWidth / scale, window.innerHeight / scale);
 document.getElementsByClassName('content')[0].appendChild(renderer.domElement);
 
+const controls = new THREE.OrbitControls(camera, renderer.domElement);
 const geometry = new THREE.BoxGeometry();
 const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 const cube = new THREE.Mesh(geometry, material);
@@ -17,9 +18,9 @@ cube.rotation.x -= 40;
 scene.add(cube);
 
 camera.position.z = 5;
-
+// controls.update();
 function animate() {
-	// requestAnimationFrame(animate);
+	requestAnimationFrame(animate);
 	renderer.render(scene, camera);
 }
 
