@@ -1,1 +1,2 @@
 Fix sidebars to relative scaling
+Use CDNs instead of stored files for 3, orbit, gltf (see link)
