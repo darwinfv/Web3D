@@ -15,7 +15,15 @@ const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 const cube = new THREE.Mesh(geometry, material);
 cube.rotation.y += 10;
 cube.rotation.x -= 40;
-scene.add(cube);
+// scene.add(cube);
+
+const loader = new THREE.GLTFLoader();
+loader.load('', function(gltf) {
+    scene.add(gltf.scene);
+
+}, undefined, function(error) {
+    console.log(error);
+});
 
 camera.position.z = 5;
 // controls.update();
