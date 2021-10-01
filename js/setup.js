@@ -12,7 +12,7 @@ document.getElementsByClassName('content')[0].appendChild(renderer.domElement);
 const controls = new THREE.OrbitControls(camera, renderer.domElement);
 
 const lights = lightSetup();
-lights.forEach((light => {
+lights.forEach(light => {
     scene.add(light);
 });
 
@@ -23,8 +23,9 @@ window.addEventListener('resize', onWindowResize, false);
 defaultCube();
 
 function lightSetup() {
-    light = new THREE.AmbientLight(0x404040, 4);
-    scene.add(light);
+    lightArray = [];
+    let light = new THREE.AmbientLight(0x404040, 4);
+    lightArray.push(light);
 
     // directionalLight = new THREE.DirectionalLight(0xffffff,1);
     // directionalLight.position.set(0,1,0);
@@ -43,7 +44,7 @@ function lightSetup() {
     // light4.position.set(-500,300,500);
     // scene.add(light4);
 
-    return lights;
+    return lightArray;
 }
 
 function animate() {
