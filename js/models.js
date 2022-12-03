@@ -1,6 +1,5 @@
 let models = [
-    "https://raw.githubusercontent.com/darwinfv/Web3D/master/models/untitled.gltf?token=AFHP3MBERXW7QZ5N4WY4TV3BKKOGC",
-    "https://raw.githubusercontent.com/darwinfv/Web3D/master/models/dough.gltf?token=AFHP3MAUABF5ZIMEWUWYNEDBKKOF4"
+    
 ];
 
 let index = 0;
