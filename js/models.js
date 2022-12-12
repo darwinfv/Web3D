@@ -1,5 +1,6 @@
 let models = [
-    
+    "https://raw.githubusercontent.com/darwinfv/Web3D/master/models/dough.gltf",
+    "https://raw.githubusercontent.com/darwinfv/Web3D/master/models/bonsai.gltf",
 ];
 
 let index = 0;
