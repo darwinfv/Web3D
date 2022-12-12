@@ -1,1 +1,1404 @@
-{"accessors":[{"bufferView":0,"componentType":5123,"count":9018,"max":[5468],"min":[0],"type":"SCALAR"},{"bufferView":1,"componentType":5126,"count":5469,"max":[1.164393424987793,1.0094271898269653,1.134888768196106],"min":[-1.164393424987793,-0.949897825717926,-1.134888768196106],"type":"VEC3"},{"bufferView":2,"componentType":5126,"count":5469,"max":[1.0,1.0,1.0],"min":[-1.0,-1.0,-1.0],"type":"VEC3"},{"bufferView":3,"componentType":5126,"count":5469,"max":[0.6282898783683777,1.00006103515625],"min":[-3.0517578125e-05,0.0],"type":"VEC2"},{"bufferView":4,"componentType":5123,"count":98304,"max":[35757],"min":[0],"type":"SCALAR"},{"bufferView":5,"componentType":5126,"count":35758,"max":[1.0,0.14745351672172546,1.0],"min":[-1.0,0.0,-1.0],"type":"VEC3"},{"bufferView":6,"componentType":5126,"count":35758,"max":[0.21564477682113647,1.0,0.4238017499446869],"min":[-0.21564477682113647,0.9057238698005676,-0.4238571226596832],"type":"VEC3"},{"bufferView":7,"componentType":5126,"count":35758,"max":[1.0,1.0],"min":[0.0,0.0],"type":"VEC2"},{"bufferView":8,"componentType":5123,"count":576,"max":[383],"min":[0],"type":"SCALAR"},{"bufferView":9,"componentType":5126,"count":384,"max":[4.773403167724609,2.2442939281463623,11.638248443603516],"min":[-0.7943152189254761,-0.024174217134714127,0.3857951760292053],"type":"VEC3"},{"bufferView":10,"componentType":5126,"count":384,"max":[0.9746409058570862,0.9980876445770264,0.47950437664985657],"min":[-0.9514203071594238,-0.9769868850708008,-0.626491129398346],"type":"VEC3"},{"bufferView":11,"componentType":5126,"count":384,"max":[1.0,1.0],"min":[0.0,0.0],"type":"VEC2"},{"bufferView":12,"componentType":5121,"count":24,"max":[9],"min":[0],"type":"SCALAR"},{"bufferView":13,"componentType":5126,"count":10,"max":[7.005105495452881,11.763628959655762,14.479999542236328],"min":[-9.024589538574219,0.0,-17.670461654663086],"type":"VEC3"},{"bufferView":14,"componentType":5126,"count":10,"max":[0.9872139096260071,1.0,-0.0],"min":[0.0,-0.2216443419456482,-0.0],"type":"VEC3"},{"bufferView":15,"componentType":5126,"count":10,"max":[1.0,1.0],"min":[0.0,0.0],"type":"VEC2"},{"bufferView":16,"componentType":5123,"count":576,"max":[383],"min":[0],"type":"SCALAR"},{"bufferView":17,"componentType":5126,"count":384,"max":[4.773403167724609,2.2442939281463623,11.638248443603516],"min":[-0.7943152189254761,-0.024174217134714127,0.3857951760292053],"type":"VEC3"},{"bufferView":18,"componentType":5126,"count":384,"max":[0.9746409058570862,0.9980876445770264,0.47950437664985657],"min":[-0.9514203071594238,-0.9769868850708008,-0.626491129398346],"type":"VEC3"},{"bufferView":19,"componentType":5126,"count":384,"max":[1.0,1.0],"min":[0.0,0.0],"type":"VEC2"}],"asset":{"generator":"Verge3D for Blender","version":"2.0"},"bufferViews":[{"buffer":0,"byteLength":18036,"byteOffset":0,"target":34963},{"buffer":0,"byteLength":65628,"byteOffset":18036,"target":34962},{"buffer":0,"byteLength":65628,"byteOffset":83664,"target":34962},{"buffer":0,"byteLength":43752,"byteOffset":149292,"target":34962},{"buffer":0,"byteLength":196608,"byteOffset":193044,"target":34963},{"buffer":0,"byteLength":429096,"byteOffset":389652,"target":34962},{"buffer":0,"byteLength":429096,"byteOffset":818748,"target":34962},{"buffer":0,"byteLength":286064,"byteOffset":1247844,"target":34962},{"buffer":0,"byteLength":1152,"byteOffset":1533908,"target":34963},{"buffer":0,"byteLength":4608,"byteOffset":1535060,"target":34962},{"buffer":0,"byteLength":4608,"byteOffset":1539668,"target":34962},{"buffer":0,"byteLength":3072,"byteOffset":1544276,"target":34962},{"buffer":0,"byteLength":24,"byteOffset":1547348,"target":34963},{"buffer":0,"byteLength":120,"byteOffset":1547372,"target":34962},{"buffer":0,"byteLength":120,"byteOffset":1547492,"target":34962},{"buffer":0,"byteLength":80,"byteOffset":1547612,"target":34962},{"buffer":0,"byteLength":1152,"byteOffset":1547692,"target":34963},{"buffer":0,"byteLength":4608,"byteOffset":1548844,"target":34962},{"buffer":0,"byteLength":4608,"byteOffset":1553452,"target":34962},{"buffer":0,"byteLength":3072,"byteOffset":1558060,"target":34962}],"buffers":[{"byteLength":1561132,"uri":"bonsai.bin"}],"cameras":[{"extensions":{"S8S_v3d_camera":{"controls":"ORBIT","enablePan":true,"moveSpeed":1.0,"orbitMaxDistance":100.0,"orbitMaxPolarAngle":3.1415927410125732,"orbitMaxZoom":100.0,"orbitMinDistance":0.0,"orbitMinPolarAngle":0.0,"orbitMinZoom":0.009999999776482582,"orbitTarget":[0.0,0.0,-0.0],"rotateSpeed":1.0,"viewportFitInitialAspect":1.7777777777777777,"viewportFitType":"AUTO"}},"name":"Camera","perspective":{"aspectRatio":1.7777777777777777,"yfov":0.39959652046304894,"zfar":100.0,"znear":0.10000000149011612},"type":"perspective"}],"extensions":{"S8S_v3d_lights":{"lights":[{"color":[1.0,1.0,1.0],"decay":2,"distance":31.622776955095866,"intensity":1000.0,"name":"Light","profile":"blender","shadow":{"bias":-0.0018,"cameraFar":31.622776955095866,"cameraFov":0,"cameraNear":0.05000000074505806,"enabled":true,"expBias":2.5,"mapSize":512,"radius":1.0,"slopeScaledBias":2.5},"type":"point"},{"color":[1.0,1.0,1.0],"decay":2,"distance":31.622776955095866,"intensity":1000.0,"name":"Light.001","profile":"blender","shadow":{"bias":-0.0018,"cameraFar":31.622776955095866,"cameraFov":0,"cameraNear":0.05000000074505806,"enabled":true,"expBias":2.5,"mapSize":512,"radius":1.0,"slopeScaledBias":2.5},"type":"point"},{"color":[1.0,1.0,1.0],"decay":2,"distance":31.622776955095866,"intensity":1000.0,"name":"Light.002","profile":"blender","shadow":{"bias":-0.0018,"cameraFar":31.622776955095866,"cameraFov":0,"cameraNear":0.05000000074505806,"enabled":true,"expBias":2.5,"mapSize":512,"radius":1.0,"slopeScaledBias":2.5},"type":"point"},{"color":[1.0,1.0,1.0],"decay":2,"distance":31.622776955095866,"intensity":1000.0,"name":"Light.003","profile":"blender","shadow":{"bias":-0.0018,"cameraFar":31.622776955095866,"cameraFov":0,"cameraNear":0.05000000074505806,"enabled":true,"expBias":2.5,"mapSize":512,"radius":1.0,"slopeScaledBias":2.5},"type":"point"}]}},"extensionsUsed":["S8S_v3d_materials","S8S_v3d_camera","S8S_v3d_lights","S8S_v3d_mesh","S8S_v3d_node","S8S_v3d_scene"],"materials":[{"extensions":{"S8S_v3d_materials":{"gtaoVisible":true,"materialIndex":0,"nodeGraph":{"edges":[{"fromNode":0,"fromOutput":0,"toInput":0,"toNode":1}],"nodes":[{"inputs":[[0.04896140471100807,1.0,0.5707388520240784,1.0],0.0,[1.0,0.20000000298023224,0.10000000149011612],[0.800000011920929,0.800000011920929,0.800000011920929,1.0],1.399999976158142,0.0,0.0,0.5,0.0,0.5,0.0,0.0,0.0,0.5,0.0,0.029999999329447746,1.4500000476837158,0.0,0.0,[0.0,0.0,0.0,1.0],1.0,1.0,[0.0,0.0,0.0],[0.0,0.0,0.0],[0.0,0.0,0.0]],"is_active_output":false,"name":"Principled BSDF","outputs":[[0,0,0,0]],"type":"BSDF_PRINCIPLED_BL"},{"inputs":[[0,0,0,0],[0,0,0,0],[0.0,0.0,0.0],0.0],"is_active_output":true,"name":"Material Output","outputs":[],"type":"OUTPUT_MATERIAL_BL"}]},"useCastShadows":true}},"name":"Wall"},{"extensions":{"S8S_v3d_materials":{"gtaoVisible":true,"materialIndex":0,"nodeGraph":{"edges":[{"fromNode":1,"fromOutput":0,"toInput":0,"toNode":0}],"nodes":[{"inputs":[[0,0,0,0],[0,0,0,0]],"is_active_output":true,"name":"World Output","outputs":[],"type":"OUTPUT_WORLD_BL"},{"inputs":[[0.05087608844041824,0.05087608844041824,0.05087608844041824,1.0],1.0],"is_active_output":false,"name":"Background","outputs":[[0,0,0,0]],"type":"BACKGROUND_BL"}]},"useCastShadows":true}},"name":"Verge3D_Environment_World"},{"extensions":{"S8S_v3d_materials":{"nodeGraph":{"edges":[{"fromNode":1,"fromOutput":0,"toInput":0,"toNode":0}],"nodes":[{"inputs":[[0,0,0,0],[0,0,0,0],[0,0,0]],"is_active_output":true,"name":"Material Output","outputs":[],"type":"OUTPUT_MATERIAL_BL"},{"inputs":[[0.800000011920929,0.800000011920929,0.800000011920929,1.0],0.0,[0.0,0.0,0.0]],"is_active_output":false,"name":"Diffuse BSDF","outputs":[[0,0,0,0]],"type":"BSDF_DIFFUSE_BL"}]},"useCastShadows":true,"useShadows":true}},"name":"v3d_default_material"}],"meshes":[{"extensions":{"S8S_v3d_mesh":{"colorLayers":{},"uvLayers":{}}},"name":"Cube.001","primitives":[{"attributes":{"NORMAL":2,"POSITION":1,"TEXCOORD_0":3},"indices":0,"material":2,"mode":4}]},{"extensions":{"S8S_v3d_mesh":{"colorLayers":{},"uvLayers":{}}},"name":"Plane","primitives":[{"attributes":{"NORMAL":6,"POSITION":5,"TEXCOORD_0":7},"indices":4,"material":2,"mode":4}]},{"extensions":{"S8S_v3d_mesh":{"colorLayers":{},"uvLayers":{}}},"name":"Plane.002","primitives":[{"attributes":{"NORMAL":10,"POSITION":9,"TEXCOORD_0":11},"indices":8,"material":2,"mode":4}]},{"extensions":{"S8S_v3d_mesh":{"colorLayers":{},"uvLayers":{"UVMap":"TEXCOORD_0"}}},"name":"Plane.004","primitives":[{"attributes":{"NORMAL":14,"POSITION":13,"TEXCOORD_0":15},"indices":12,"material":0,"mode":4}]},{"extensions":{"S8S_v3d_mesh":{"colorLayers":{},"uvLayers":{}}},"name":"Plane.008","primitives":[{"attributes":{"NORMAL":18,"POSITION":17,"TEXCOORD_0":19},"indices":16,"material":2,"mode":4}]}],"nodes":[{"camera":0,"extensions":{"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[0.0,0.0,0.0,0.0],"objectIndex":0,"renderOrder":0}},"name":"Camera","rotation":[-0.20997299253940582,0.3857799470424652,0.09062844514846802,0.8937962055206299],"scale":[1.0,0.9999998807907104,0.9999998807907104],"translation":[19.062713623046875,17.177093505859375,18.69561004638672]},{"extensions":{"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[1.0,1.0,1.0,1.0],"objectIndex":0,"renderOrder":0,"useShadows":true}},"name":"Roots","translation":[0.0,0.6933311223983765,-0.0]},{"extensions":{"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":true,"hidpiCompositing":false,"objectColor":[1.0,1.0,1.0,1.0],"objectIndex":0,"renderOrder":0,"useShadows":true}},"mesh":2,"name":"Leaf.001","rotation":[-0.008420837111771107,-0.7851463556289673,0.11342210322618484,0.6087772846221924],"scale":[0.9999977946281433,1.0,0.9652202725410461],"translation":[2.9802322387695312e-08,7.450580596923828e-09,2.7939677238464355e-09]},{"extensions":{"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[1.0,1.0,1.0,1.0],"objectIndex":0,"renderOrder":0,"useShadows":true}},"mesh":3,"name":"Plane","scale":[3.9422264099121094,3.9422264099121094,3.9422264099121094],"translation":[0.22329291701316833,-0.6665629744529724,0.1738479882478714]},{"extensions":{"S8S_v3d_lights":{"light":2},"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[0.0,0.0,0.0,0.0],"objectIndex":0,"renderOrder":0}},"name":"Light.002","rotation":[-0.28416627645492554,0.7269423007965088,0.34203392267227173,0.5232754945755005],"scale":[1.0,0.9999998807907104,0.9999998807907104],"translation":[-2.588651180267334,9.46556568145752,7.986310958862305]},{"extensions":{"S8S_v3d_lights":{"light":0},"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[0.0,0.0,0.0,0.0],"objectIndex":0,"renderOrder":0}},"name":"Light","rotation":[-0.28416627645492554,0.7269423007965088,0.34203392267227173,0.5232754945755005],"scale":[1.0,0.9999998807907104,0.9999998807907104],"translation":[3.321486473083496,11.443038940429688,-3.603625774383545]},{"extensions":{"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[1.0,1.0,1.0,1.0],"objectIndex":0,"renderOrder":0,"useShadows":true}},"name":"Stem","translation":[0.0,0.6933311223983765,-0.0]},{"extensions":{"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[1.0,1.0,1.0,1.0],"objectIndex":0,"renderOrder":0,"useShadows":true}},"mesh":1,"name":"Dirt","scale":[1.0,1.0,2.118555784225464],"translation":[0.0,0.540607213973999,-0.0]},{"extensions":{"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[1.0,1.0,1.0,1.0],"objectIndex":0,"renderOrder":0,"useShadows":true}},"mesh":0,"name":"Pot","scale":[1.0,0.722503125667572,2.106849431991577]},{"extensions":{"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":true,"hidpiCompositing":false,"objectColor":[1.0,1.0,1.0,1.0],"objectIndex":0,"renderOrder":0,"useShadows":true}},"mesh":4,"name":"Leaf.006","rotation":[-0.008420837111771107,-0.7851463556289673,0.11342210322618484,0.6087772846221924],"scale":[0.9999977946281433,1.0,0.9652202725410461],"translation":[2.9802322387695312e-08,7.450580596923828e-09,2.7939677238464355e-09]},{"extensions":{"S8S_v3d_lights":{"light":1},"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[0.0,0.0,0.0,0.0],"objectIndex":0,"renderOrder":0}},"name":"Light.001","rotation":[-0.28416627645492554,0.7269423007965088,0.34203392267227173,0.5232754945755005],"scale":[1.0,0.9999998807907104,0.9999998807907104],"translation":[7.196181774139404,9.609596252441406,4.45465087890625]},{"extensions":{"S8S_v3d_lights":{"light":3},"S8S_v3d_node":{"frustumCulling":true,"groupNames":["Collection"],"hidden":false,"hidpiCompositing":false,"objectColor":[0.0,0.0,0.0,0.0],"objectIndex":0,"renderOrder":0}},"name":"Light.003","rotation":[-0.28416627645492554,0.7269423007965088,0.34203392267227173,0.5232754945755005],"scale":[1.0,0.9999998807907104,0.9999998807907104],"translation":[6.003738880157471,5.644291400909424,-4.075469017028809]}],"scene":0,"scenes":[{"extensions":{"S8S_v3d_scene":{"aaMethod":"AUTO","iblEnvironmentMode":"PMREM","physicallyCorrectLights":true,"pmremMaxTileSize":512,"shadowMap":{"esmDistanceScale":1.0,"renderReverseSided":false,"renderSingleSided":true,"type":"PCFPOISSON"},"toneMapping":{"type":"filmicBlender"},"worldMaterial":1}},"extras":{"animFrameRate":24,"coordSystem":"Z_UP_RIGHT"},"name":"Scene","nodes":[5,0,8,7,6,9,1,2,3,10,4,11]}]}
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 9018,
+      "max": [
+        5468
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5469,
+      "max": [
+        1.164393424987793,
+        1.0094271898269653,
+        1.134888768196106
+      ],
+      "min": [
+        -1.164393424987793,
+        -0.949897825717926,
+        -1.134888768196106
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5469,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5469,
+      "max": [
+        0.6282898783683777,
+        1.00006103515625
+      ],
+      "min": [
+        -3.0517578125e-05,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 98304,
+      "max": [
+        35757
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 35758,
+      "max": [
+        1.0,
+        0.14745351672172546,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 35758,
+      "max": [
+        0.21564477682113647,
+        1.0,
+        0.4238017499446869
+      ],
+      "min": [
+        -0.21564477682113647,
+        0.9057238698005676,
+        -0.4238571226596832
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 35758,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5123,
+      "count": 576,
+      "max": [
+        383
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 384,
+      "max": [
+        4.773403167724609,
+        2.2442939281463623,
+        11.638248443603516
+      ],
+      "min": [
+        -0.7943152189254761,
+        -0.024174217134714127,
+        0.3857951760292053
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 384,
+      "max": [
+        0.9746409058570862,
+        0.9980876445770264,
+        0.47950437664985657
+      ],
+      "min": [
+        -0.9514203071594238,
+        -0.9769868850708008,
+        -0.626491129398346
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 384,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5121,
+      "count": 24,
+      "max": [
+        9
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 10,
+      "max": [
+        7.005105495452881,
+        11.763628959655762,
+        14.479999542236328
+      ],
+      "min": [
+        -9.024589538574219,
+        0.0,
+        -17.670461654663086
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 10,
+      "max": [
+        0.9872139096260071,
+        1.0,
+        -0.0
+      ],
+      "min": [
+        0.0,
+        -0.2216443419456482,
+        -0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 10,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5123,
+      "count": 576,
+      "max": [
+        383
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 384,
+      "max": [
+        4.773403167724609,
+        2.2442939281463623,
+        11.638248443603516
+      ],
+      "min": [
+        -0.7943152189254761,
+        -0.024174217134714127,
+        0.3857951760292053
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 384,
+      "max": [
+        0.9746409058570862,
+        0.9980876445770264,
+        0.47950437664985657
+      ],
+      "min": [
+        -0.9514203071594238,
+        -0.9769868850708008,
+        -0.626491129398346
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 384,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Verge3D for Blender",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 18036,
+      "byteOffset": 0,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 65628,
+      "byteOffset": 18036,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 65628,
+      "byteOffset": 83664,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43752,
+      "byteOffset": 149292,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 196608,
+      "byteOffset": 193044,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 429096,
+      "byteOffset": 389652,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 429096,
+      "byteOffset": 818748,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 286064,
+      "byteOffset": 1247844,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1152,
+      "byteOffset": 1533908,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4608,
+      "byteOffset": 1535060,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4608,
+      "byteOffset": 1539668,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3072,
+      "byteOffset": 1544276,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 1547348,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 120,
+      "byteOffset": 1547372,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 120,
+      "byteOffset": 1547492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 80,
+      "byteOffset": 1547612,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1152,
+      "byteOffset": 1547692,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4608,
+      "byteOffset": 1548844,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4608,
+      "byteOffset": 1553452,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3072,
+      "byteOffset": 1558060,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1561132,
+      "uri": "https://github.com/darwinfv/Web3D/blob/master/models/bonsai.bin?raw=true"
+    }
+  ],
+  "cameras": [
+    {
+      "extensions": {
+        "S8S_v3d_camera": {
+          "controls": "ORBIT",
+          "enablePan": true,
+          "moveSpeed": 1.0,
+          "orbitMaxDistance": 100.0,
+          "orbitMaxPolarAngle": 3.1415927410125732,
+          "orbitMaxZoom": 100.0,
+          "orbitMinDistance": 0.0,
+          "orbitMinPolarAngle": 0.0,
+          "orbitMinZoom": 0.009999999776482582,
+          "orbitTarget": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "rotateSpeed": 1.0,
+          "viewportFitInitialAspect": 1.7777777777777777,
+          "viewportFitType": "AUTO"
+        }
+      },
+      "name": "Camera",
+      "perspective": {
+        "aspectRatio": 1.7777777777777777,
+        "yfov": 0.39959652046304894,
+        "zfar": 100.0,
+        "znear": 0.10000000149011612
+      },
+      "type": "perspective"
+    }
+  ],
+  "extensions": {
+    "S8S_v3d_lights": {
+      "lights": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "decay": 2,
+          "distance": 31.622776955095866,
+          "intensity": 1000.0,
+          "name": "Light",
+          "profile": "blender",
+          "shadow": {
+            "bias": -0.0018,
+            "cameraFar": 31.622776955095866,
+            "cameraFov": 0,
+            "cameraNear": 0.05000000074505806,
+            "enabled": true,
+            "expBias": 2.5,
+            "mapSize": 512,
+            "radius": 1.0,
+            "slopeScaledBias": 2.5
+          },
+          "type": "point"
+        },
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "decay": 2,
+          "distance": 31.622776955095866,
+          "intensity": 1000.0,
+          "name": "Light.001",
+          "profile": "blender",
+          "shadow": {
+            "bias": -0.0018,
+            "cameraFar": 31.622776955095866,
+            "cameraFov": 0,
+            "cameraNear": 0.05000000074505806,
+            "enabled": true,
+            "expBias": 2.5,
+            "mapSize": 512,
+            "radius": 1.0,
+            "slopeScaledBias": 2.5
+          },
+          "type": "point"
+        },
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "decay": 2,
+          "distance": 31.622776955095866,
+          "intensity": 1000.0,
+          "name": "Light.002",
+          "profile": "blender",
+          "shadow": {
+            "bias": -0.0018,
+            "cameraFar": 31.622776955095866,
+            "cameraFov": 0,
+            "cameraNear": 0.05000000074505806,
+            "enabled": true,
+            "expBias": 2.5,
+            "mapSize": 512,
+            "radius": 1.0,
+            "slopeScaledBias": 2.5
+          },
+          "type": "point"
+        },
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "decay": 2,
+          "distance": 31.622776955095866,
+          "intensity": 1000.0,
+          "name": "Light.003",
+          "profile": "blender",
+          "shadow": {
+            "bias": -0.0018,
+            "cameraFar": 31.622776955095866,
+            "cameraFov": 0,
+            "cameraNear": 0.05000000074505806,
+            "enabled": true,
+            "expBias": 2.5,
+            "mapSize": 512,
+            "radius": 1.0,
+            "slopeScaledBias": 2.5
+          },
+          "type": "point"
+        }
+      ]
+    }
+  },
+  "extensionsUsed": [
+    "S8S_v3d_materials",
+    "S8S_v3d_camera",
+    "S8S_v3d_lights",
+    "S8S_v3d_mesh",
+    "S8S_v3d_node",
+    "S8S_v3d_scene"
+  ],
+  "materials": [
+    {
+      "extensions": {
+        "S8S_v3d_materials": {
+          "gtaoVisible": true,
+          "materialIndex": 0,
+          "nodeGraph": {
+            "edges": [
+              {
+                "fromNode": 0,
+                "fromOutput": 0,
+                "toInput": 0,
+                "toNode": 1
+              }
+            ],
+            "nodes": [
+              {
+                "inputs": [
+                  [
+                    0.04896140471100807,
+                    1.0,
+                    0.5707388520240784,
+                    1.0
+                  ],
+                  0.0,
+                  [
+                    1.0,
+                    0.20000000298023224,
+                    0.10000000149011612
+                  ],
+                  [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                  ],
+                  1.399999976158142,
+                  0.0,
+                  0.0,
+                  0.5,
+                  0.0,
+                  0.5,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.5,
+                  0.0,
+                  0.029999999329447746,
+                  1.4500000476837158,
+                  0.0,
+                  0.0,
+                  [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                  ],
+                  1.0,
+                  1.0,
+                  [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  [
+                    0.0,
+                    0.0,
+                    0.0
+                  ]
+                ],
+                "is_active_output": false,
+                "name": "Principled BSDF",
+                "outputs": [
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ]
+                ],
+                "type": "BSDF_PRINCIPLED_BL"
+              },
+              {
+                "inputs": [
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  0.0
+                ],
+                "is_active_output": true,
+                "name": "Material Output",
+                "outputs": [],
+                "type": "OUTPUT_MATERIAL_BL"
+              }
+            ]
+          },
+          "useCastShadows": true
+        }
+      },
+      "name": "Wall"
+    },
+    {
+      "extensions": {
+        "S8S_v3d_materials": {
+          "gtaoVisible": true,
+          "materialIndex": 0,
+          "nodeGraph": {
+            "edges": [
+              {
+                "fromNode": 1,
+                "fromOutput": 0,
+                "toInput": 0,
+                "toNode": 0
+              }
+            ],
+            "nodes": [
+              {
+                "inputs": [
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ]
+                ],
+                "is_active_output": true,
+                "name": "World Output",
+                "outputs": [],
+                "type": "OUTPUT_WORLD_BL"
+              },
+              {
+                "inputs": [
+                  [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    1.0
+                  ],
+                  1.0
+                ],
+                "is_active_output": false,
+                "name": "Background",
+                "outputs": [
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ]
+                ],
+                "type": "BACKGROUND_BL"
+              }
+            ]
+          },
+          "useCastShadows": true
+        }
+      },
+      "name": "Verge3D_Environment_World"
+    },
+    {
+      "extensions": {
+        "S8S_v3d_materials": {
+          "nodeGraph": {
+            "edges": [
+              {
+                "fromNode": 1,
+                "fromOutput": 0,
+                "toInput": 0,
+                "toNode": 0
+              }
+            ],
+            "nodes": [
+              {
+                "inputs": [
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  [
+                    0,
+                    0,
+                    0
+                  ]
+                ],
+                "is_active_output": true,
+                "name": "Material Output",
+                "outputs": [],
+                "type": "OUTPUT_MATERIAL_BL"
+              },
+              {
+                "inputs": [
+                  [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                  ],
+                  0.0,
+                  [
+                    0.0,
+                    0.0,
+                    0.0
+                  ]
+                ],
+                "is_active_output": false,
+                "name": "Diffuse BSDF",
+                "outputs": [
+                  [
+                    0,
+                    0,
+                    0,
+                    0
+                  ]
+                ],
+                "type": "BSDF_DIFFUSE_BL"
+              }
+            ]
+          },
+          "useCastShadows": true,
+          "useShadows": true
+        }
+      },
+      "name": "v3d_default_material"
+    }
+  ],
+  "meshes": [
+    {
+      "extensions": {
+        "S8S_v3d_mesh": {
+          "colorLayers": {},
+          "uvLayers": {}
+        }
+      },
+      "name": "Cube.001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_mesh": {
+          "colorLayers": {},
+          "uvLayers": {}
+        }
+      },
+      "name": "Plane",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_mesh": {
+          "colorLayers": {},
+          "uvLayers": {}
+        }
+      },
+      "name": "Plane.002",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TEXCOORD_0": 11
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_mesh": {
+          "colorLayers": {},
+          "uvLayers": {
+            "UVMap": "TEXCOORD_0"
+          }
+        }
+      },
+      "name": "Plane.004",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TEXCOORD_0": 15
+          },
+          "indices": 12,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_mesh": {
+          "colorLayers": {},
+          "uvLayers": {}
+        }
+      },
+      "name": "Plane.008",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 18,
+            "POSITION": 17,
+            "TEXCOORD_0": 19
+          },
+          "indices": 16,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "camera": 0,
+      "extensions": {
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0
+        }
+      },
+      "name": "Camera",
+      "rotation": [
+        -0.20997299253940582,
+        0.3857799470424652,
+        0.09062844514846802,
+        0.8937962055206299
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999998807907104
+      ],
+      "translation": [
+        19.062713623046875,
+        17.177093505859375,
+        18.69561004638672
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0,
+          "useShadows": true
+        }
+      },
+      "name": "Roots",
+      "translation": [
+        0.0,
+        0.6933311223983765,
+        -0.0
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": true,
+          "hidpiCompositing": false,
+          "objectColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0,
+          "useShadows": true
+        }
+      },
+      "mesh": 2,
+      "name": "Leaf.001",
+      "rotation": [
+        -0.008420837111771107,
+        -0.7851463556289673,
+        0.11342210322618484,
+        0.6087772846221924
+      ],
+      "scale": [
+        0.9999977946281433,
+        1.0,
+        0.9652202725410461
+      ],
+      "translation": [
+        2.9802322387695312e-08,
+        7.450580596923828e-09,
+        2.7939677238464355e-09
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0,
+          "useShadows": true
+        }
+      },
+      "mesh": 3,
+      "name": "Plane",
+      "scale": [
+        3.9422264099121094,
+        3.9422264099121094,
+        3.9422264099121094
+      ],
+      "translation": [
+        0.22329291701316833,
+        -0.6665629744529724,
+        0.1738479882478714
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_lights": {
+          "light": 2
+        },
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0
+        }
+      },
+      "name": "Light.002",
+      "rotation": [
+        -0.28416627645492554,
+        0.7269423007965088,
+        0.34203392267227173,
+        0.5232754945755005
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999998807907104
+      ],
+      "translation": [
+        -2.588651180267334,
+        9.46556568145752,
+        7.986310958862305
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_lights": {
+          "light": 0
+        },
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0
+        }
+      },
+      "name": "Light",
+      "rotation": [
+        -0.28416627645492554,
+        0.7269423007965088,
+        0.34203392267227173,
+        0.5232754945755005
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999998807907104
+      ],
+      "translation": [
+        3.321486473083496,
+        11.443038940429688,
+        -3.603625774383545
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0,
+          "useShadows": true
+        }
+      },
+      "name": "Stem",
+      "translation": [
+        0.0,
+        0.6933311223983765,
+        -0.0
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0,
+          "useShadows": true
+        }
+      },
+      "mesh": 1,
+      "name": "Dirt",
+      "scale": [
+        1.0,
+        1.0,
+        2.118555784225464
+      ],
+      "translation": [
+        0.0,
+        0.540607213973999,
+        -0.0
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0,
+          "useShadows": true
+        }
+      },
+      "mesh": 0,
+      "name": "Pot",
+      "scale": [
+        1.0,
+        0.722503125667572,
+        2.106849431991577
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": true,
+          "hidpiCompositing": false,
+          "objectColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0,
+          "useShadows": true
+        }
+      },
+      "mesh": 4,
+      "name": "Leaf.006",
+      "rotation": [
+        -0.008420837111771107,
+        -0.7851463556289673,
+        0.11342210322618484,
+        0.6087772846221924
+      ],
+      "scale": [
+        0.9999977946281433,
+        1.0,
+        0.9652202725410461
+      ],
+      "translation": [
+        2.9802322387695312e-08,
+        7.450580596923828e-09,
+        2.7939677238464355e-09
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_lights": {
+          "light": 1
+        },
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0
+        }
+      },
+      "name": "Light.001",
+      "rotation": [
+        -0.28416627645492554,
+        0.7269423007965088,
+        0.34203392267227173,
+        0.5232754945755005
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999998807907104
+      ],
+      "translation": [
+        7.196181774139404,
+        9.609596252441406,
+        4.45465087890625
+      ]
+    },
+    {
+      "extensions": {
+        "S8S_v3d_lights": {
+          "light": 3
+        },
+        "S8S_v3d_node": {
+          "frustumCulling": true,
+          "groupNames": [
+            "Collection"
+          ],
+          "hidden": false,
+          "hidpiCompositing": false,
+          "objectColor": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "objectIndex": 0,
+          "renderOrder": 0
+        }
+      },
+      "name": "Light.003",
+      "rotation": [
+        -0.28416627645492554,
+        0.7269423007965088,
+        0.34203392267227173,
+        0.5232754945755005
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999998807907104
+      ],
+      "translation": [
+        6.003738880157471,
+        5.644291400909424,
+        -4.075469017028809
+      ]
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "extensions": {
+        "S8S_v3d_scene": {
+          "aaMethod": "AUTO",
+          "iblEnvironmentMode": "PMREM",
+          "physicallyCorrectLights": true,
+          "pmremMaxTileSize": 512,
+          "shadowMap": {
+            "esmDistanceScale": 1.0,
+            "renderReverseSided": false,
+            "renderSingleSided": true,
+            "type": "PCFPOISSON"
+          },
+          "toneMapping": {
+            "type": "filmicBlender"
+          },
+          "worldMaterial": 1
+        }
+      },
+      "extras": {
+        "animFrameRate": 24,
+        "coordSystem": "Z_UP_RIGHT"
+      },
+      "name": "Scene",
+      "nodes": [
+        5,
+        0,
+        8,
+        7,
+        6,
+        9,
+        1,
+        2,
+        3,
+        10,
+        4,
+        11
+      ]
+    }
+  ]
+}
